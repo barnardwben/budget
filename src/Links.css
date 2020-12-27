@@ -1,0 +1,14 @@
+.Links-button {
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0));
+  border: none;
+  border-radius: 5%;
+  margin: 0 0.8rem;
+  font-size: 1.2rem;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Links-button:active {
+  outline: none;
+}

@@ -1,0 +1,6 @@
+.Nav-Grid-Container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgb(142, 81, 177);
+}
