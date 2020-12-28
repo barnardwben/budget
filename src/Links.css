@@ -3,12 +3,19 @@
   border: none;
   border-radius: 5%;
   margin: 0 0.8rem;
-  font-size: 1.2rem;
-  font-family: effra, sans-serif;
+  font-size: 1rem;
+  font-family: quasimoda, sans-serif;
   font-weight: 400;
   font-style: normal;
+  color: #8d9096;
+  cursor: pointer;
+  transition: 0.2s all ease-in-out;
 }
 
-.Links-button:active {
-  outline: none;
+.Links-button:hover {
+  color: black;
+}
+
+.Links-button:focus {
+  outline: 2px solid black;
 }
