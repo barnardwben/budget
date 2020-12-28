@@ -17,8 +17,8 @@ button {
 }
 
 .login-btn {
-  border: 2px solid rgb(41, 201, 166);
-  color: rgb(41, 201, 166);
+  border: 2px solid rgb(0, 148, 116);
+  color: rgb(0, 131, 102);
   background: #fff;
   padding: 0.17rem 1rem;
   transition: 0.2s all ease-in-out;
@@ -29,7 +29,7 @@ button {
 }
 
 .signup-btn {
-  background: rgb(224, 55, 111);
+  background: rgb(209, 35, 93);
   color: #fff;
   padding: 0.25rem 1rem;
   transition: 0.2s all ease-in-out;
