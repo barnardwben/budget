@@ -48,8 +48,9 @@
 .Card-total-budget-amount {
   text-align: center;
   position: relative;
-  top: -2.7rem;
+  top: -2.9rem;
   font-size: 2.5rem;
+  margin: 2rem 0 2.5rem 0;
 }
 
 .Card-grid {

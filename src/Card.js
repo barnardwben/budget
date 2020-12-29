@@ -11,23 +11,23 @@ const Card = () => {
         <h2 className="Card-total-budget-amount">$2,250</h2>
         <div className="Card-grid">
           <div className="Card-flex">
-            <h4>Rent:</h4>
-            <h4>$850</h4>
+            <h4>Rent: $850</h4>
+            <h4>Spent: $0</h4>
           </div>
           <hr />
           <div className="Card-flex">
-            <h4>Groceries:</h4>
-            <h4>$250</h4>
+            <h4>Groceries: $250</h4>
+            <h4>Spent: $0</h4>
           </div>
           <hr />
           <div className="Card-flex">
-            <h4>Entertainment:</h4>
-            <h4>$200</h4>
+            <h4>Entertainment: $200</h4>
+            <h4>Spent: $0</h4>
           </div>
           <hr />
           <div className="Card-flex">
-            <h4>Insurance:</h4>
-            <h4>$450</h4>
+            <h4>Insurance: $450</h4>
+            <h4>Spent: $0</h4>
           </div>
         </div>
       </div>
