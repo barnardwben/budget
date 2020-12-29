@@ -23,6 +23,7 @@
 
 .Card-h3 {
   position: relative;
+  font-size: 1.4rem;
   left: 55px;
   top: -20px;
   color: rgb(24, 24, 24);
@@ -31,7 +32,7 @@
 .far {
   position: relative;
   right: -15rem;
-  top: -5rem;
+  top: -5.5rem;
   font-size: 1.4rem;
   color: rgb(0, 148, 116);
 }
@@ -39,7 +40,7 @@
 .fas {
   position: relative;
   right: -13.75rem;
-  top: -3rem;
+  top: -3.5rem;
   font-size: 1.4rem;
   color: rgb(209, 35, 93);
 }
@@ -49,7 +50,7 @@
   height: 290px;
   background: linear-gradient(-45deg, rgb(247, 148, 148), rgb(253, 148, 183));
   position: relative;
-  top: -55px;
+  top: -65px;
   border-bottom-left-radius: 5%;
   border-bottom-right-radius: 5%;
   color: rgb(255, 255, 255);
