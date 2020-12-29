@@ -6,6 +6,8 @@ const Card = () => {
       <img className="Card-logo" src="money-bag (1).png" alt="" />
       <h5 className="Card-h5">Budget Type:</h5>
       <h3 className="Card-h3">Monthly</h3>
+      <i className="far fa-plus-square"></i>
+      <i className="fas fa-edit"></i>
       <div className="Card-main">
         <h4 className="Card-total-budget">Total Remaining Budget:</h4>
         <h2 className="Card-total-budget-amount">$2,250</h2>
