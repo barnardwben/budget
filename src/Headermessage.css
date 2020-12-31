@@ -1,0 +1,8 @@
+.HeaderM-div {
+  width: 80%;
+  height: 400px;
+  padding: 2rem;
+  /* background: #fff; */
+  grid-column: 1;
+  justify-self: end;
+}
