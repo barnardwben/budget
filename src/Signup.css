@@ -1,0 +1,10 @@
+.signup-btn {
+  background: rgb(209, 35, 93);
+  color: #fff;
+  padding: 0.25rem 1rem;
+  transition: 0.2s all ease-in-out;
+}
+
+.signup-btn:hover {
+  background: rgb(214, 47, 103);
+}
