@@ -13,7 +13,7 @@ const Headermessage = () => {
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste, debitis
         quisquam sapiente esse voluptatum id!
       </p>
-      <Signup />
+      <Signup link="Join for Free" id="tester" />
     </div>
   );
 };

@@ -15,7 +15,7 @@ const Nav = () => {
         <Links link="Loans" />
         <Links link="Resources" />
         <button className="login-btn">Login</button>
-        <Signup />
+        <Signup link="Sign Up" />
       </div>
     </nav>
   );

@@ -6,3 +6,7 @@
   grid-column: 1;
   justify-self: end;
 }
+
+#tester {
+  font-size: 1.5rem;
+}
