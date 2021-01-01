@@ -1,8 +1,8 @@
 import React from "react";
 import "./Card.css";
-const Card = () => {
+const Card = (props) => {
   return (
-    <div className="Card-body">
+    <div className="Card-body" id={props.id}>
       <img className="Card-logo" src="money-bag (1).png" alt="" />
       <h5 className="Card-h5">Budget Type:</h5>
       <h3 className="Card-h3">Monthly</h3>
