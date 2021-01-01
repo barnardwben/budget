@@ -5,13 +5,10 @@ const Headermessage = () => {
   return (
     <div className="HeaderM-div">
       <section></section>
-      <h1>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut sed fugit
-        ad.
-      </h1>
+      <h1>It’s all coming together</h1>
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste, debitis
-        quisquam sapiente esse voluptatum id!
+        When you’re on top of your money, life is good. We help you effortlessly
+        manage your finances in one place.
       </p>
       <Signup link="Join for Free" id="tester" />
     </div>

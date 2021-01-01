@@ -1,10 +1,18 @@
 .HeaderM-div {
-  width: 80%;
+  width: 60%;
   height: 400px;
   padding: 2rem;
   /* background: #fff; */
   grid-column: 1;
   justify-self: end;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.2rem;
 }
 
 #tester {
