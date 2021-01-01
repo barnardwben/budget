@@ -6,7 +6,9 @@ const Header = () => {
   return (
     <header className="Header-header">
       <Headermessage />
-      <Card />
+      <Card id="inde-one" />
+      <Card id="abso-one" />
+      <Card id="abso-two" />
     </header>
   );
 };
