@@ -9,10 +9,12 @@
 
 h1 {
   font-size: 3rem;
+  color: rgb(18, 33, 65);
 }
 
 p {
   font-size: 1.2rem;
+  color: rgb(61, 71, 94);
 }
 
 #tester {
