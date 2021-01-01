@@ -1,0 +1,32 @@
+export const cards = [
+  {
+    id: 1,
+    idSelector: "inde-two",
+    btype: "Weekly",
+    totrem: "$565",
+    itemone: "Rent: $850",
+    itemtwo: "Groceries: $250",
+    itemthree: "Entertainment: $200",
+    itemfour: "Insurance: $450",
+  },
+  {
+    id: 2,
+    idSelector: "inde-one",
+    btype: "Monthly",
+    totrem: "$2,250",
+    itemone: "Rent: $850",
+    itemtwo: "Groceries: $250",
+    itemthree: "Entertainment: $200",
+    itemfour: "Insurance: $450",
+  },
+  {
+    id: 3,
+    idSelector: "inde-three",
+    btype: "Yearly",
+    totrem: "$27,000",
+    itemone: "Rent: $850",
+    itemtwo: "Groceries: $250",
+    itemthree: "Entertainment: $200",
+    itemfour: "Insurance: $450",
+  },
+];
