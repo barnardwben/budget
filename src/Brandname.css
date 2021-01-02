@@ -1,0 +1,24 @@
+.brand-name {
+  display: inline;
+  font-family: bree, sans-serif;
+  font-weight: 600;
+  font-size: 4.5rem;
+  margin: 0;
+  font-style: normal;
+  background: -webkit-linear-gradient(
+    45deg,
+    rgb(101, 255, 196),
+    rgb(45, 224, 155),
+    rgb(14, 190, 131),
+    rgb(14, 177, 123)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#brandNav {
+  font-size: 2rem;
+  position: relative;
+  top: -1.4rem;
+  left: 0.5rem;
+}
