@@ -25,7 +25,7 @@ export const cards = [
     btype: "Yearly",
     totrem: "$27,000",
     itemone: "Rent: $10,200",
-    itemtwo: "Car Maintenance: $1,186",
+    itemtwo: "Car Loan: $6,186",
     itemthree: "Vacation: $2,400",
     itemfour: "Subscriptions: $350",
   },
