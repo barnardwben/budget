@@ -8,8 +8,8 @@ const Headermessage = () => {
       <Brandname />
       <h1>Finding a safe place for your money</h1>
       <p className="header-para">
-        Having your accounts financially fit helps to keep the rest of your life
-        fit. We help in building you a dynamically robust budgeting plan.
+        Having your accounts financially fit helps to keep your life in order.
+        We help in building you a dynamically robust budgeting plan.
       </p>
       <Signup link="Join for Free" id="tester" />
     </div>
