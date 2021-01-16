@@ -13,7 +13,7 @@ const Card = (props) => {
 
   return (
     <div className="Card-body" id={idSelector}>
-      <img className="Card-logo" src="money-bag (1).png" alt="" />
+      <img className="Card-logo" src="\images\mikeslogo.png" alt="" />
       <h5 className="Card-h5">Budget Type:</h5>
       <h3 className="Card-h3">{btype}</h3>
       <i className="far fa-plus-square"></i>

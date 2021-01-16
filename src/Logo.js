@@ -6,7 +6,7 @@ const Logo = () => {
   return (
     <div>
       <Brandname id="brandNav" />
-      <img className="Logo-img" src="money-bag (1).png" alt="Budget Logo" />
+      <img className="Logo-img" src="\images\mikeslogo.png" alt="Budget Logo" />
     </div>
   );
 };
