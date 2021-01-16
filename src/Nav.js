@@ -32,10 +32,10 @@ const Nav = () => {
       <Logo />
       <div>
         <Links link="How it works" />
-        <Links link="Credit Cards and More" />
+        <Links link="Connecting Accounts & Security" />
         <Links link="Investing" />
-        <Links link="Loans" />
-        <Links link="Resources" />
+        {/* <Links link="" /> */}
+        <Links link="Support" />
         <button className="login-btn">Login</button>
         <Signup link="Sign Up" />
       </div>
